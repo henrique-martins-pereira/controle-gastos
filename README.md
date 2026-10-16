@@ -14,12 +14,12 @@ Python + SQLite3
 
 ## 🧑‍💻 Como rodar
 
-** Para quem não tem Python**
+**Para quem não tem Python**
 - Instale o arquivi.exe em Release
 - Crie uma pasta chamada 'Gastos' em sua Área de Trabalho
 - Rode o programa
 
-** Para quem tem Python configurado**
+**Para quem tem Python configurado**
 
 ```bash
 python controle_gastos.py
